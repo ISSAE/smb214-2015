@@ -1,0 +1,3 @@
+[submodule "Outgoings"]
+	path = Outgoings
+	url = git@github.com:Ibrahim-Keyrouz/Outgoings.git
