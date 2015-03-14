@@ -4,3 +4,6 @@
 [submodule "gestionDep"]
 	path = gestionDep
 	url = git@github.com:bilani/gestionDep.git
+[submodule "Expenses-Manager"]
+	path = Expenses-Manager
+	url = git@github.com:mohamad-dekmak/Expenses-Manager.git
