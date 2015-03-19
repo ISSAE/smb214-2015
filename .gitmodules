@@ -7,3 +7,6 @@
 [submodule "Expenses-Manager"]
 	path = Expenses-Manager
 	url = git@github.com:mohamad-dekmak/Expenses-Manager.git
+[submodule "HayatBourji"]
+	path = HayatBourji
+	url = git@github.com:Hayat5/ex4.git
