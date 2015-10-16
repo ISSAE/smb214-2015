@@ -13,3 +13,6 @@
 [submodule "Df"]
 	path = Df
 	url = git@github.com:Peter-eid/Df.git
+[submodule "NachKar"]
+	path = NachKar
+	url = git@github.com:nachkar/Expenses.git
