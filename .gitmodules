@@ -16,3 +16,9 @@
 [submodule "NachKar"]
 	path = NachKar
 	url = git@github.com:nachkar/Expenses.git
+[submodule "Tamara"]
+	path = Tamara
+	url = git@github.com:tamaraoueidat/fam_expenses_smb214.git
+[submodule "Chafik-Farid"]
+	path = Chafik-Farid
+	url = git@github.com:chakti-farid/expenses_upd.git
