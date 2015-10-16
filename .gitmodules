@@ -22,3 +22,6 @@
 [submodule "Chafik-Farid"]
 	path = Chafik-Farid
 	url = git@github.com:chakti-farid/expenses_upd.git
+[submodule "MMerhej"]
+	path = MMerhej
+	url = git@github.com:mmerhej/expenses_v5.git
